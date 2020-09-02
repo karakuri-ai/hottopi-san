@@ -1,36 +1,25 @@
-
-
-
-
 #  ネガポジ分析
 
-## Requirement
+## Requirements
 
 - Python3
 
 - Pytorch  
 
-  
-
-
-## Instaration
+## Installation
 
 ```
-$ git clone https://github.com/karakuri-ai/sentiment-analytics.git
 $ pip install -r requirements.txt  
 ```
 
 [drive](https://drive.google.com/drive/u/0/folders/1UCLlwcSdeiA9Fxc_ghoXIHFuCK6GXDd1)からtorchtextで日本語ベクトルとして学習済させたモデル(model.vec)をダウンロードして
 
-`sentiment-analytics/negapoji_analytics/src/data/`に置く
-
+`sentiment-analytics/negapoji_analytics/src/data/` に置いてください．
 
 
 ## Usage
 
-詳しくは`negapoji_analytics/src/`下の[Transformer.ipynb](https://github.com/karakuri-ai/sentiment-analytics/blob/master/negapoji_analytics/src/Transformer.ipynb)を参考にしてください．
-
-
+詳しくは`negapoji_analytics/src/`下の Transformer.ipynb を参考にしてください．
 
 ### 推論
 
