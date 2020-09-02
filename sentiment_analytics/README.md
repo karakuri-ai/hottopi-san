@@ -19,8 +19,6 @@ $ pip install -r requirements.txt
 
 ## Usage
 
-詳しくは`negapoji_analytics/src/`下の Transformer.ipynb を参考にしてください．
-
 ### 推論
 
 モジュールのimport及びclassの初期化。
